@@ -6,9 +6,9 @@
 - 📫 How to reach me: info@cloudwave.it
 
 
-**Bitcoin Donations:** ```1AgQrwoz29i4F7h4s2z28zsTH5VgCjVKnB```
+**Bitcoin Donations:** ```bc1q3l9quts7m4xltqhypaynep0wsxg28fjn4uyuxc```
 
-**Monero Donations:** ```49ufQPbKm6Q1LyAb9gSX4zQ6vSpfnhh9MWpaC7mTqCMr1vh3YuFLALQ34gG3KcStfNhffxJZyDNK4Ys8ap6r6kRM49sshQu```
+**Ethereum (ERC20 Too) Donations:** ```0xb1645Aa027D80489dE23d82C8e6A630906b2a4FB```
 
 <a href='https://ko-fi.com/nukedev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
