@@ -10,6 +10,8 @@
 
 **Ethereum (ERC20 Too) Donations:** ```0xb1645Aa027D80489dE23d82C8e6A630906b2a4FB```
 
+**XRP Donations:** ```rP3UVieVSV77w9hxsT6FpKEr4f1bekBM82```
+
 <a href='https://ko-fi.com/nukedev' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 [![](https://github-readme-stats.vercel.app/api?username=nukedev&show_icons=true&hide_title=true&theme=nightowl)](https://github.com/nukedev)
