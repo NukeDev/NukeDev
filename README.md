@@ -2,6 +2,21 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=nukedev&show_icons=true&hide_title=true&theme=nightowl)](https://github.com/nukedev)
 
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEZJROWBYJKwYBBAHaRw8BAQdADEWYHSO3V1BxlKqDP1xU6qRjvHhsRqGr
+GZBkmDVVZarNG251a2RldkBwbS5tZSA8bnVrZGV2QHBtLm1lPsKMBBAWCgA+
+BYJklE5YBAsJBwgJkOGwePpAnjCEAxUICgQWAAIBAhkBApsDAh4BFiEE1AYU
+w7UV8UWSmyx54bB4+kCeMIQAAEtQAQCwAx/39lgTvD/5l9AedtZ0dgL5uzk9
+G7pQhk6MLayBZwD+M4VckN8biAO8mQSNoDsKy/PrYW+77V65A6kr6mbp0AfO
+OARklE5YEgorBgEEAZdVAQUBAQdAHBz7Hr2yDYLtxDQH7dAqs2zEoNCQRPzA
+2T/Qmhg5zSwDAQgHwngEGBYIACoFgmSUTlgJkOGwePpAnjCEApsMFiEE1AYU
+w7UV8UWSmyx54bB4+kCeMIQAALS0AP9MrabXSyVE4Zg2k7As7npqvFl9Z6w/
+BbyVNztvrzdajAEAs2cuNBhJUNRd3m1JO0SY+JgGjBXXQy6B1r2qtO1Whgc=
+=tvIK
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 <!--
 **NukeDev/NukeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
